@@ -1,9 +1,9 @@
 # My procedure:
-Setup a new and empty github repository. 
-Created a repository locally with the oblig 2 files.
-Setup the github repository as a remote.
-Pushed the local repository to the remote.
-Setup a github action workflow using the basic python with pytest template.
+- Setup a new and empty github repository. 
+- Created a repository locally with the oblig 2 files.
+- Setup the github repository as a remote.
+- Pushed the local repository to the remote.
+- Setup a github action workflow using the basic python with pytest template.
 
 
 # Result:
